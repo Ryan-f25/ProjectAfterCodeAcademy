@@ -27,7 +27,6 @@ public class conditionalStatements {
 
 
         //This program says if a number is prime
-
         boolean isPrimeNum = true;
         int num = (int) (Math.random() * 60) + 1;
         for (int n = 2; n < num -1; n++) {
